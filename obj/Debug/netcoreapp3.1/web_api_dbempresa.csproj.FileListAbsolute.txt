@@ -1,0 +1,209 @@
+C:\Users\paiz2\Desktop\proyectos_net_core\web_api_dbempresa\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\paiz2\Desktop\proyectos_net_core\web_api_dbempresa\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\paiz2\Desktop\proyectos_net_core\web_api_dbempresa\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\paiz2\Desktop\proyectos_net_core\web_api_dbempresa\bin\Debug\netcoreapp3.1\web_api_dbempresa.exe
+C:\Users\paiz2\Desktop\proyectos_net_core\web_api_dbempresa\bin\Debug\netcoreapp3.1\web_api_dbempresa.deps.json
+C:\Users\paiz2\Desktop\proyectos_net_core\web_api_dbempresa\bin\Debug\netcoreapp3.1\web_api_dbempresa.runtimeconfig.json
+C:\Users\paiz2\Desktop\proyectos_net_core\web_api_dbempresa\bin\Debug\netcoreapp3.1\web_api_dbempresa.runtimeconfig.dev.json
+C:\Users\paiz2\Desktop\proyectos_net_core\web_api_dbempresa\bin\Debug\netcoreapp3.1\web_api_dbempresa.dll
+C:\Users\paiz2\Desktop\proyectos_net_core\web_api_dbempresa\bin\Debug\netcoreapp3.1\web_api_dbempresa.pdb
+C:\Users\paiz2\Desktop\proyectos_net_core\web_api_dbempresa\obj\Debug\netcoreapp3.1\web_api_dbempresa.csprojAssemblyReference.cache
+C:\Users\paiz2\Desktop\proyectos_net_core\web_api_dbempresa\obj\Debug\netcoreapp3.1\web_api_dbempresa.AssemblyInfoInputs.cache
+C:\Users\paiz2\Desktop\proyectos_net_core\web_api_dbempresa\obj\Debug\netcoreapp3.1\web_api_dbempresa.AssemblyInfo.cs
+C:\Users\paiz2\Desktop\proyectos_net_core\web_api_dbempresa\obj\Debug\netcoreapp3.1\web_api_dbempresa.csproj.CoreCompileInputs.cache
+C:\Users\paiz2\Desktop\proyectos_net_core\web_api_dbempresa\obj\Debug\netcoreapp3.1\web_api_dbempresa.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\paiz2\Desktop\proyectos_net_core\web_api_dbempresa\obj\Debug\netcoreapp3.1\web_api_dbempresa.RazorTargetAssemblyInfo.cache
+C:\Users\paiz2\Desktop\proyectos_net_core\web_api_dbempresa\obj\Debug\netcoreapp3.1\staticwebassets\web_api_dbempresa.StaticWebAssets.Manifest.cache
+C:\Users\paiz2\Desktop\proyectos_net_core\web_api_dbempresa\obj\Debug\netcoreapp3.1\staticwebassets\web_api_dbempresa.StaticWebAssets.xml
+C:\Users\paiz2\Desktop\proyectos_net_core\web_api_dbempresa\obj\Debug\netcoreapp3.1\web_api_dbempresa.dll
+C:\Users\paiz2\Desktop\proyectos_net_core\web_api_dbempresa\obj\Debug\netcoreapp3.1\web_api_dbempresa.pdb
+C:\Users\paiz2\Desktop\proyectos_net_core\web_api_dbempresa\obj\Debug\netcoreapp3.1\web_api_dbempresa.genruntimeconfig.cache
+C:\Users\paiz2\Desktop\proyectos_net_core\web_api_dbempresa\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\paiz2\Desktop\proyectos_net_core\web_api_dbempresa\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\paiz2\Desktop\proyectos_net_core\web_api_dbempresa\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\paiz2\Desktop\proyectos_net_core\web_api_dbempresa\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\paiz2\Desktop\proyectos_net_core\web_api_dbempresa\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\paiz2\Desktop\proyectos_net_core\web_api_dbempresa\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\paiz2\Desktop\proyectos_net_core\web_api_dbempresa\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\paiz2\Desktop\proyectos_net_core\web_api_dbempresa\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\paiz2\Desktop\proyectos_net_core\web_api_dbempresa\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\paiz2\Desktop\proyectos_net_core\web_api_dbempresa\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\paiz2\Desktop\proyectos_net_core\web_api_dbempresa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\paiz2\Desktop\proyectos_net_core\web_api_dbempresa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\paiz2\Desktop\proyectos_net_core\web_api_dbempresa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\paiz2\Desktop\proyectos_net_core\web_api_dbempresa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\paiz2\Desktop\proyectos_net_core\web_api_dbempresa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\paiz2\Desktop\proyectos_net_core\web_api_dbempresa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\paiz2\Desktop\proyectos_net_core\web_api_dbempresa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\paiz2\Desktop\proyectos_net_core\web_api_dbempresa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\paiz2\Desktop\proyectos_net_core\web_api_dbempresa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\paiz2\Desktop\proyectos_net_core\web_api_dbempresa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\paiz2\Desktop\proyectos_net_core\web_api_dbempresa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\paiz2\Desktop\proyectos_net_core\web_api_dbempresa\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\paiz2\Desktop\proyectos_net_core\web_api_dbempresa\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\paiz2\Desktop\proyectos_net_core\web_api_dbempresa\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\paiz2\Desktop\proyectos_net_core\web_api_dbempresa\bin\Debug\netcoreapp3.1\MySql.Data.EntityFrameworkCore.dll
+C:\Users\paiz2\Desktop\proyectos_net_core\web_api_dbempresa\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\paiz2\Desktop\proyectos_net_core\web_api_dbempresa\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\paiz2\Desktop\proyectos_net_core\web_api_dbempresa\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\paiz2\Desktop\proyectos_net_core\web_api_dbempresa\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\paiz2\Desktop\proyectos_net_core\web_api_dbempresa\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\paiz2\Desktop\proyectos_net_core\web_api_dbempresa\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\paiz2\Desktop\proyectos_net_core\web_api_dbempresa\obj\Debug\netcoreapp3.1\web_api_dbempresa.csproj.CopyComplete
+C:\Users\paiz2\Desktop\proyectos_net_core\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\paiz2\Desktop\proyectos_net_core\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\paiz2\Desktop\proyectos_net_core\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\paiz2\Desktop\proyectos_net_core\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\web_api_dbempresa.exe
+C:\Users\paiz2\Desktop\proyectos_net_core\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\web_api_dbempresa.deps.json
+C:\Users\paiz2\Desktop\proyectos_net_core\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\web_api_dbempresa.runtimeconfig.json
+C:\Users\paiz2\Desktop\proyectos_net_core\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\web_api_dbempresa.runtimeconfig.dev.json
+C:\Users\paiz2\Desktop\proyectos_net_core\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\web_api_dbempresa.dll
+C:\Users\paiz2\Desktop\proyectos_net_core\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\web_api_dbempresa.pdb
+C:\Users\paiz2\Desktop\proyectos_net_core\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\paiz2\Desktop\proyectos_net_core\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\paiz2\Desktop\proyectos_net_core\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\paiz2\Desktop\proyectos_net_core\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\paiz2\Desktop\proyectos_net_core\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\paiz2\Desktop\proyectos_net_core\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\paiz2\Desktop\proyectos_net_core\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\paiz2\Desktop\proyectos_net_core\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\paiz2\Desktop\proyectos_net_core\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\paiz2\Desktop\proyectos_net_core\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\paiz2\Desktop\proyectos_net_core\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\paiz2\Desktop\proyectos_net_core\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\paiz2\Desktop\proyectos_net_core\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\paiz2\Desktop\proyectos_net_core\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\paiz2\Desktop\proyectos_net_core\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\paiz2\Desktop\proyectos_net_core\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\paiz2\Desktop\proyectos_net_core\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\paiz2\Desktop\proyectos_net_core\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\paiz2\Desktop\proyectos_net_core\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\paiz2\Desktop\proyectos_net_core\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\paiz2\Desktop\proyectos_net_core\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\paiz2\Desktop\proyectos_net_core\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\paiz2\Desktop\proyectos_net_core\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\paiz2\Desktop\proyectos_net_core\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\paiz2\Desktop\proyectos_net_core\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\MySql.Data.EntityFrameworkCore.dll
+C:\Users\paiz2\Desktop\proyectos_net_core\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\paiz2\Desktop\proyectos_net_core\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\paiz2\Desktop\proyectos_net_core\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\paiz2\Desktop\proyectos_net_core\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\paiz2\Desktop\proyectos_net_core\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\paiz2\Desktop\proyectos_net_core\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\paiz2\Desktop\proyectos_net_core\async\web_api_dbempresa\obj\Debug\netcoreapp3.1\web_api_dbempresa.csprojAssemblyReference.cache
+C:\Users\paiz2\Desktop\proyectos_net_core\async\web_api_dbempresa\obj\Debug\netcoreapp3.1\web_api_dbempresa.AssemblyInfoInputs.cache
+C:\Users\paiz2\Desktop\proyectos_net_core\async\web_api_dbempresa\obj\Debug\netcoreapp3.1\web_api_dbempresa.AssemblyInfo.cs
+C:\Users\paiz2\Desktop\proyectos_net_core\async\web_api_dbempresa\obj\Debug\netcoreapp3.1\web_api_dbempresa.csproj.CoreCompileInputs.cache
+C:\Users\paiz2\Desktop\proyectos_net_core\async\web_api_dbempresa\obj\Debug\netcoreapp3.1\web_api_dbempresa.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\paiz2\Desktop\proyectos_net_core\async\web_api_dbempresa\obj\Debug\netcoreapp3.1\web_api_dbempresa.RazorTargetAssemblyInfo.cache
+C:\Users\paiz2\Desktop\proyectos_net_core\async\web_api_dbempresa\obj\Debug\netcoreapp3.1\web_api_dbempresa.csproj.CopyComplete
+C:\Users\paiz2\Desktop\proyectos_net_core\async\web_api_dbempresa\obj\Debug\netcoreapp3.1\staticwebassets\web_api_dbempresa.StaticWebAssets.Manifest.cache
+C:\Users\paiz2\Desktop\proyectos_net_core\async\web_api_dbempresa\obj\Debug\netcoreapp3.1\staticwebassets\web_api_dbempresa.StaticWebAssets.xml
+C:\Users\paiz2\Desktop\proyectos_net_core\async\web_api_dbempresa\obj\Debug\netcoreapp3.1\web_api_dbempresa.dll
+C:\Users\paiz2\Desktop\proyectos_net_core\async\web_api_dbempresa\obj\Debug\netcoreapp3.1\web_api_dbempresa.pdb
+C:\Users\paiz2\Desktop\proyectos_net_core\async\web_api_dbempresa\obj\Debug\netcoreapp3.1\web_api_dbempresa.genruntimeconfig.cache
+C:\Users\paiz2\Desktop\Clases UMG\2021\Semestre 2\Antigua\Desarrollo Web\Semana 8\api_rest\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\paiz2\Desktop\Clases UMG\2021\Semestre 2\Antigua\Desarrollo Web\Semana 8\api_rest\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\paiz2\Desktop\Clases UMG\2021\Semestre 2\Antigua\Desarrollo Web\Semana 8\api_rest\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\web_api_dbempresa.exe
+C:\Users\paiz2\Desktop\Clases UMG\2021\Semestre 2\Antigua\Desarrollo Web\Semana 8\api_rest\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\web_api_dbempresa.deps.json
+C:\Users\paiz2\Desktop\Clases UMG\2021\Semestre 2\Antigua\Desarrollo Web\Semana 8\api_rest\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\web_api_dbempresa.runtimeconfig.json
+C:\Users\paiz2\Desktop\Clases UMG\2021\Semestre 2\Antigua\Desarrollo Web\Semana 8\api_rest\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\web_api_dbempresa.runtimeconfig.dev.json
+C:\Users\paiz2\Desktop\Clases UMG\2021\Semestre 2\Antigua\Desarrollo Web\Semana 8\api_rest\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\web_api_dbempresa.dll
+C:\Users\paiz2\Desktop\Clases UMG\2021\Semestre 2\Antigua\Desarrollo Web\Semana 8\api_rest\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\web_api_dbempresa.pdb
+C:\Users\paiz2\Desktop\Clases UMG\2021\Semestre 2\Antigua\Desarrollo Web\Semana 8\api_rest\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\paiz2\Desktop\Clases UMG\2021\Semestre 2\Antigua\Desarrollo Web\Semana 8\api_rest\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\paiz2\Desktop\Clases UMG\2021\Semestre 2\Antigua\Desarrollo Web\Semana 8\api_rest\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\paiz2\Desktop\Clases UMG\2021\Semestre 2\Antigua\Desarrollo Web\Semana 8\api_rest\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\paiz2\Desktop\Clases UMG\2021\Semestre 2\Antigua\Desarrollo Web\Semana 8\api_rest\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\paiz2\Desktop\Clases UMG\2021\Semestre 2\Antigua\Desarrollo Web\Semana 8\api_rest\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\paiz2\Desktop\Clases UMG\2021\Semestre 2\Antigua\Desarrollo Web\Semana 8\api_rest\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\paiz2\Desktop\Clases UMG\2021\Semestre 2\Antigua\Desarrollo Web\Semana 8\api_rest\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\paiz2\Desktop\Clases UMG\2021\Semestre 2\Antigua\Desarrollo Web\Semana 8\api_rest\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\paiz2\Desktop\Clases UMG\2021\Semestre 2\Antigua\Desarrollo Web\Semana 8\api_rest\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\paiz2\Desktop\Clases UMG\2021\Semestre 2\Antigua\Desarrollo Web\Semana 8\api_rest\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\paiz2\Desktop\Clases UMG\2021\Semestre 2\Antigua\Desarrollo Web\Semana 8\api_rest\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\paiz2\Desktop\Clases UMG\2021\Semestre 2\Antigua\Desarrollo Web\Semana 8\api_rest\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\paiz2\Desktop\Clases UMG\2021\Semestre 2\Antigua\Desarrollo Web\Semana 8\api_rest\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\paiz2\Desktop\Clases UMG\2021\Semestre 2\Antigua\Desarrollo Web\Semana 8\api_rest\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\paiz2\Desktop\Clases UMG\2021\Semestre 2\Antigua\Desarrollo Web\Semana 8\api_rest\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\paiz2\Desktop\Clases UMG\2021\Semestre 2\Antigua\Desarrollo Web\Semana 8\api_rest\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\paiz2\Desktop\Clases UMG\2021\Semestre 2\Antigua\Desarrollo Web\Semana 8\api_rest\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\paiz2\Desktop\Clases UMG\2021\Semestre 2\Antigua\Desarrollo Web\Semana 8\api_rest\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\paiz2\Desktop\Clases UMG\2021\Semestre 2\Antigua\Desarrollo Web\Semana 8\api_rest\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\paiz2\Desktop\Clases UMG\2021\Semestre 2\Antigua\Desarrollo Web\Semana 8\api_rest\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\paiz2\Desktop\Clases UMG\2021\Semestre 2\Antigua\Desarrollo Web\Semana 8\api_rest\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\paiz2\Desktop\Clases UMG\2021\Semestre 2\Antigua\Desarrollo Web\Semana 8\api_rest\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\paiz2\Desktop\Clases UMG\2021\Semestre 2\Antigua\Desarrollo Web\Semana 8\api_rest\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\paiz2\Desktop\Clases UMG\2021\Semestre 2\Antigua\Desarrollo Web\Semana 8\api_rest\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\MySql.Data.EntityFrameworkCore.dll
+C:\Users\paiz2\Desktop\Clases UMG\2021\Semestre 2\Antigua\Desarrollo Web\Semana 8\api_rest\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\paiz2\Desktop\Clases UMG\2021\Semestre 2\Antigua\Desarrollo Web\Semana 8\api_rest\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\paiz2\Desktop\Clases UMG\2021\Semestre 2\Antigua\Desarrollo Web\Semana 8\api_rest\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\paiz2\Desktop\Clases UMG\2021\Semestre 2\Antigua\Desarrollo Web\Semana 8\api_rest\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\paiz2\Desktop\Clases UMG\2021\Semestre 2\Antigua\Desarrollo Web\Semana 8\api_rest\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\paiz2\Desktop\Clases UMG\2021\Semestre 2\Antigua\Desarrollo Web\Semana 8\api_rest\async\web_api_dbempresa\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\paiz2\Desktop\Clases UMG\2021\Semestre 2\Antigua\Desarrollo Web\Semana 8\api_rest\async\web_api_dbempresa\obj\Debug\netcoreapp3.1\web_api_dbempresa.csprojAssemblyReference.cache
+C:\Users\paiz2\Desktop\Clases UMG\2021\Semestre 2\Antigua\Desarrollo Web\Semana 8\api_rest\async\web_api_dbempresa\obj\Debug\netcoreapp3.1\web_api_dbempresa.AssemblyInfoInputs.cache
+C:\Users\paiz2\Desktop\Clases UMG\2021\Semestre 2\Antigua\Desarrollo Web\Semana 8\api_rest\async\web_api_dbempresa\obj\Debug\netcoreapp3.1\web_api_dbempresa.AssemblyInfo.cs
+C:\Users\paiz2\Desktop\Clases UMG\2021\Semestre 2\Antigua\Desarrollo Web\Semana 8\api_rest\async\web_api_dbempresa\obj\Debug\netcoreapp3.1\web_api_dbempresa.csproj.CoreCompileInputs.cache
+C:\Users\paiz2\Desktop\Clases UMG\2021\Semestre 2\Antigua\Desarrollo Web\Semana 8\api_rest\async\web_api_dbempresa\obj\Debug\netcoreapp3.1\web_api_dbempresa.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\paiz2\Desktop\Clases UMG\2021\Semestre 2\Antigua\Desarrollo Web\Semana 8\api_rest\async\web_api_dbempresa\obj\Debug\netcoreapp3.1\staticwebassets\web_api_dbempresa.StaticWebAssets.Manifest.cache
+C:\Users\paiz2\Desktop\Clases UMG\2021\Semestre 2\Antigua\Desarrollo Web\Semana 8\api_rest\async\web_api_dbempresa\obj\Debug\netcoreapp3.1\staticwebassets\web_api_dbempresa.StaticWebAssets.xml
+C:\Users\paiz2\Desktop\Clases UMG\2021\Semestre 2\Antigua\Desarrollo Web\Semana 8\api_rest\async\web_api_dbempresa\obj\Debug\netcoreapp3.1\scopedcss\bundle\web_api_dbempresa.styles.css
+C:\Users\paiz2\Desktop\Clases UMG\2021\Semestre 2\Antigua\Desarrollo Web\Semana 8\api_rest\async\web_api_dbempresa\obj\Debug\netcoreapp3.1\web_api_dbempresa.RazorTargetAssemblyInfo.cache
+C:\Users\paiz2\Desktop\Clases UMG\2021\Semestre 2\Antigua\Desarrollo Web\Semana 8\api_rest\async\web_api_dbempresa\obj\Debug\netcoreapp3.1\web_api_dbempresa.csproj.CopyComplete
+C:\Users\paiz2\Desktop\Clases UMG\2021\Semestre 2\Antigua\Desarrollo Web\Semana 8\api_rest\async\web_api_dbempresa\obj\Debug\netcoreapp3.1\web_api_dbempresa.dll
+C:\Users\paiz2\Desktop\Clases UMG\2021\Semestre 2\Antigua\Desarrollo Web\Semana 8\api_rest\async\web_api_dbempresa\obj\Debug\netcoreapp3.1\web_api_dbempresa.pdb
+C:\Users\paiz2\Desktop\Clases UMG\2021\Semestre 2\Antigua\Desarrollo Web\Semana 8\api_rest\async\web_api_dbempresa\obj\Debug\netcoreapp3.1\web_api_dbempresa.genruntimeconfig.cache
+C:\Users\Shelly Pam\Desktop\Shelly Progra\api_clientes-main\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Shelly Pam\Desktop\Shelly Progra\api_clientes-main\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Shelly Pam\Desktop\Shelly Progra\api_clientes-main\bin\Debug\netcoreapp3.1\web_api_dbempresa.exe
+C:\Users\Shelly Pam\Desktop\Shelly Progra\api_clientes-main\bin\Debug\netcoreapp3.1\web_api_dbempresa.deps.json
+C:\Users\Shelly Pam\Desktop\Shelly Progra\api_clientes-main\bin\Debug\netcoreapp3.1\web_api_dbempresa.runtimeconfig.json
+C:\Users\Shelly Pam\Desktop\Shelly Progra\api_clientes-main\bin\Debug\netcoreapp3.1\web_api_dbempresa.runtimeconfig.dev.json
+C:\Users\Shelly Pam\Desktop\Shelly Progra\api_clientes-main\bin\Debug\netcoreapp3.1\web_api_dbempresa.dll
+C:\Users\Shelly Pam\Desktop\Shelly Progra\api_clientes-main\bin\Debug\netcoreapp3.1\web_api_dbempresa.pdb
+C:\Users\Shelly Pam\Desktop\Shelly Progra\api_clientes-main\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Shelly Pam\Desktop\Shelly Progra\api_clientes-main\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Shelly Pam\Desktop\Shelly Progra\api_clientes-main\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\Shelly Pam\Desktop\Shelly Progra\api_clientes-main\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\Shelly Pam\Desktop\Shelly Progra\api_clientes-main\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\Shelly Pam\Desktop\Shelly Progra\api_clientes-main\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Shelly Pam\Desktop\Shelly Progra\api_clientes-main\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Shelly Pam\Desktop\Shelly Progra\api_clientes-main\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Shelly Pam\Desktop\Shelly Progra\api_clientes-main\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Shelly Pam\Desktop\Shelly Progra\api_clientes-main\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Shelly Pam\Desktop\Shelly Progra\api_clientes-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Shelly Pam\Desktop\Shelly Progra\api_clientes-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Shelly Pam\Desktop\Shelly Progra\api_clientes-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Shelly Pam\Desktop\Shelly Progra\api_clientes-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Shelly Pam\Desktop\Shelly Progra\api_clientes-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Shelly Pam\Desktop\Shelly Progra\api_clientes-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Shelly Pam\Desktop\Shelly Progra\api_clientes-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Shelly Pam\Desktop\Shelly Progra\api_clientes-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Shelly Pam\Desktop\Shelly Progra\api_clientes-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Shelly Pam\Desktop\Shelly Progra\api_clientes-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Shelly Pam\Desktop\Shelly Progra\api_clientes-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Shelly Pam\Desktop\Shelly Progra\api_clientes-main\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Shelly Pam\Desktop\Shelly Progra\api_clientes-main\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Shelly Pam\Desktop\Shelly Progra\api_clientes-main\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\Shelly Pam\Desktop\Shelly Progra\api_clientes-main\bin\Debug\netcoreapp3.1\MySql.Data.EntityFrameworkCore.dll
+C:\Users\Shelly Pam\Desktop\Shelly Progra\api_clientes-main\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\Shelly Pam\Desktop\Shelly Progra\api_clientes-main\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\Shelly Pam\Desktop\Shelly Progra\api_clientes-main\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Shelly Pam\Desktop\Shelly Progra\api_clientes-main\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Shelly Pam\Desktop\Shelly Progra\api_clientes-main\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\Shelly Pam\Desktop\Shelly Progra\api_clientes-main\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Shelly Pam\Desktop\Shelly Progra\api_clientes-main\obj\Debug\netcoreapp3.1\web_api_dbempresa.csproj.AssemblyReference.cache
+C:\Users\Shelly Pam\Desktop\Shelly Progra\api_clientes-main\obj\Debug\netcoreapp3.1\web_api_dbempresa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shelly Pam\Desktop\Shelly Progra\api_clientes-main\obj\Debug\netcoreapp3.1\web_api_dbempresa.AssemblyInfoInputs.cache
+C:\Users\Shelly Pam\Desktop\Shelly Progra\api_clientes-main\obj\Debug\netcoreapp3.1\web_api_dbempresa.AssemblyInfo.cs
+C:\Users\Shelly Pam\Desktop\Shelly Progra\api_clientes-main\obj\Debug\netcoreapp3.1\web_api_dbempresa.csproj.CoreCompileInputs.cache
+C:\Users\Shelly Pam\Desktop\Shelly Progra\api_clientes-main\obj\Debug\netcoreapp3.1\web_api_dbempresa.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Shelly Pam\Desktop\Shelly Progra\api_clientes-main\obj\Debug\netcoreapp3.1\staticwebassets\web_api_dbempresa.StaticWebAssets.Manifest.cache
+C:\Users\Shelly Pam\Desktop\Shelly Progra\api_clientes-main\obj\Debug\netcoreapp3.1\staticwebassets\web_api_dbempresa.StaticWebAssets.xml
+C:\Users\Shelly Pam\Desktop\Shelly Progra\api_clientes-main\obj\Debug\netcoreapp3.1\scopedcss\bundle\web_api_dbempresa.styles.css
+C:\Users\Shelly Pam\Desktop\Shelly Progra\api_clientes-main\obj\Debug\netcoreapp3.1\web_api_dbempresa.RazorTargetAssemblyInfo.cache
+C:\Users\Shelly Pam\Desktop\Shelly Progra\api_clientes-main\obj\Debug\netcoreapp3.1\web_api_dbempresa.csproj.CopyComplete
+C:\Users\Shelly Pam\Desktop\Shelly Progra\api_clientes-main\obj\Debug\netcoreapp3.1\web_api_dbempresa.dll
+C:\Users\Shelly Pam\Desktop\Shelly Progra\api_clientes-main\obj\Debug\netcoreapp3.1\web_api_dbempresa.pdb
+C:\Users\Shelly Pam\Desktop\Shelly Progra\api_clientes-main\obj\Debug\netcoreapp3.1\web_api_dbempresa.genruntimeconfig.cache
